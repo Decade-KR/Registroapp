@@ -1,3 +1,6 @@
-"# RegisterAPP" 
-Wena, al descargar el proyecto primero ejecuta el comando: "npm i" y queda redy. si no te va a tirar un error 
+npm i
+
+npm –requirements.txt
+
+npm install cypress --save-dev --legacy-peer-deps
 
